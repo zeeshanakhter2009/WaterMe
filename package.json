@@ -1,0 +1,13 @@
+{
+  "name": "waterme",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/mobile",
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "echo \"TODO: add lint step\"",
+    "test": "echo \"No tests yet\""
+  }
+}
